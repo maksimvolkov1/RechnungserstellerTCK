@@ -1,0 +1,9 @@
+# Eclipse + Java
+.classpath
+.project
+.settings/
+target/
+bin/
+*.log
+src/main/resources/THK_xxx-2025_name.docx
+src/main/resources/*.docx
